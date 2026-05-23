@@ -1,0 +1,40 @@
+==================================================
+PARÁMETROS DE SIMULACIÓN
+Fecha: 2026-05-10 16:15:47
+Geometría: geometria_1
+==================================================
+
+--- MATERIAL ---
+xi (coherencia)          = 0.5 µm
+london_lambda            = 2 µm
+d (espesor)              = 0.1 µm
+gamma                    = 1
+
+--- GEOMETRÍA DEL DISPOSITIVO ---
+Lx (longitud total)      = 10.0 µm
+Ly (altura bloque)       = 2.5 µm
+Lz (espesor)             = 0.1 µm
+
+--- DIENTES GAUSSIANOS (Ec. 1 del paper) ---
+N (número de dientes)    = 8
+hd (profundidad diente)  = 1.75 µm
+Pared restante (Ly-hd)   = 0.75 µm
+delta_x (sep. dientes)   = 1.2500 µm
+delta (suavidad)         = 0.2500 µm
+Posiciones xi            = [-4.375, -3.125, -1.875, -0.625, 0.625, 1.875, 3.125, 4.375] µm
+
+--- CONTACTOS ---
+contact_length           = 1.0 µm
+contact_width            = 0.1 µm
+
+--- CORRIENTES ---
+Corriente simulación inicial = 12 µA
+Barrido: de 0.0 a 50.0 µA en pasos de 0.1 µA
+
+--- MALLA ---
+max_edge_length          = xi/2 = 0.25 µm
+smooth                   = 100
+n_points borde inferior  = 1000
+
+--- RESULTADO ---
+Corriente crítica estimada = 14.20 µA
