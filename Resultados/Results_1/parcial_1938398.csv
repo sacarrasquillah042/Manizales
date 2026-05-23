@@ -1,0 +1,2 @@
+N_peine,polaridad,B_mT,Jc1_uA,Jc2_uA,eta_c1_pct,eta_c2_pct,tiempo_s,estado
+4,negativo,0.8,,,,,77753.8,ERROR: [Errno 28] Can't synchronously write data (file write failed: time = Tue May 19 

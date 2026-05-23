@@ -1,0 +1,46 @@
+=======================================================
+  PARÁMETROS DE SIMULACIÓN
+  Fecha inicio: 2026-05-22 09:02:05
+=======================================================
+
+--- MATERIAL ---
+xi (coherencia)          = 0.5 µm
+london_lambda            = 2.0 µm
+d (espesor)              = 0.1 µm
+gamma                    = 1.0
+
+--- GEOMETRÍA FIJA ---
+Lx (longitud total)      = 20.0 µm
+Ly (altura bloque)       = 5.0 µm
+hd (prof. dientes)       = 3.5 µm
+Pared restante (Ly-hd)   = 1.5 µm
+contact_length           = 5.0 µm (toda la pared)
+contact_width            = 0.1 µm
+
+--- CONFIGURACIÓN SIMULADA ---
+N dientes (fijo)         = 10
+Campo B (mT)             = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2]
+Polaridades              = ['positivo', 'negativo']
+Total trabajos           = 26
+
+--- BARRIDO DE CORRIENTE ---
+Corriente min            = -50.0 µA
+Corriente max            = 50.0 µA
+Paso                     = 1 µA
+Número de puntos         = 100
+
+--- SOLVER ---
+skip_time                = 50
+solve_time               = 100
+max_edge_length          = xi/2 = 0.25 µm
+smooth                   = 100
+
+--- PARALELIZACIÓN ---
+CPUs disponibles         = 128
+n_jobs                   = 65
+
+--- RESULTADO N=10 ---
+Fin:              2026-05-22 11:56:49
+Tiempo N=10:      10484.1s (2h 54m 44s)
+Exitosos:         26/26
+Fallidos:         0/26
