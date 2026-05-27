@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.5.26)  26 MAY 2026 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.5.26)  27 MAY 2026 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/camila/Documentos/Congresos/manizales/main.tex
-(/home/camila/Documentos/Congresos/manizales/main.tex
+**/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex
+(/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-04-28>
 (/home/camila/.miktex/texmfs/install/tex/latex/beamer/beamer.cls
@@ -1519,14 +1519,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  38131 strings out of 469620
- 789043 string characters out of 5466656
- 1401270 words of memory out of 5000000
+ 789263 string characters out of 5466656
+ 1401358 words of memory out of 5000000
  66239 multiletter control sequences out of 15000+600000
  643462 words of font info for 96 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 128i,19n,123p,1956b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,19n,123p,1978b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmss10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmss8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi12.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb></home/camila/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (24 pages, 1963328 bytes).
+Output written on main.pdf (24 pages, 1963352 bytes).
 PDF statistics:
  1187 PDF objects out of 1200 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)

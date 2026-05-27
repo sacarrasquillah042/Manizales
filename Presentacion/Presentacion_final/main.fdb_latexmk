@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1779847853.42208 "main.aux" "main.bbl" "main" 1779847857.24727 0
-  "./main-blx.bib" 1779847856.47034 342 20d1170ef6c1d70c658d70e011e08dba ""
+["bibtex main"] 1779847853.42208 "main.aux" "main.bbl" "main" 1779860009.90944 0
+  "./main-blx.bib" 1779860008.94033 342 20d1170ef6c1d70c658d70e011e08dba ""
   "./referencias.bib" 1779865356 1268 f56f734773ad4d37ec9214c02afa2acd ""
   "/home/camila/.miktex/texmfs/install/bibtex/bst/biblatex/biblatex.bst" 1779847660.28381 65510 9a2a51799b543ff279b8ea2dd91ec499 ""
-  "main.aux" 1779847856.46634 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
+  "main.aux" 1779860008.93233 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1779847853.63108 "/home/camila/Documentos/Congresos/manizales/main.tex" "main.pdf" "main" 1779847857.24745 0
+["pdflatex"] 1779860005.17969 "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" "main.pdf" "main" 1779860009.90966 0
   "/home/camila/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1779847740.62883 29155 71e2572ad06fab760694a34c351bad03 ""
   "/home/camila/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1779846373.4889 10152262 88147a6f1e6300f3816f7b817a8a0c9d ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcss1095.tfm" 1779847740.40883 1476 a5029f05f7a73d73a725274ff87f9765 ""
@@ -281,7 +281,7 @@
   "/home/camila/.miktex/texmfs/install/tex/latex/translator/translator.sty" 1779847650.93569 8765 56d370785f0143111ff9898b5adfe08e ""
   "/home/camila/.miktex/texmfs/install/tex/latex/url/url.sty" 1779847642.77958 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/camila/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1779847630.63943 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "/home/camila/Documentos/Congresos/manizales/main.tex" 1779847815.5018 41102 31fac4c495ef42860d15616a5cc848dd ""
+  "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" 1779860004.33241 41109 b9167945cfa0f829452f66fc01be9cb2 ""
   "Fondos/Cuerpo.pdf" 1779865358 23976 779c0d469540bb5d5a67fc93ff30c683 ""
   "Fondos/fin.pdf" 1779865358 262525 3a530d9ea056e5789eb695886d0cb424 ""
   "Fondos/portada.pdf" 1779865358 219755 17277a40590248c78d4d66d28a5e3383 ""
@@ -295,13 +295,13 @@
   "Imagenes/eficiencia_N8_crestas.png" 1779865356 67261 0573e9e03251dc8000487a007e85fab6 ""
   "Imagenes/eficiencia_global.png" 1779865356 70158 9e56848ac437203baa1e54104a347158 ""
   "Logos/logoUD.png" 1779865358 110016 e0eb056adc8b6771f38207c59fa0fd38 ""
-  "main.aux" 1779847856.46634 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
+  "main.aux" 1779860008.93233 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
   "main.bbl" 1779847853.5583 519 9b1193ea42022b65f5e4436756b83bc1 "bibtex main"
-  "main.nav" 1779847856.47434 3360 c8f3f4b8feed8c8142020c314e93440a "pdflatex"
-  "main.out" 1779847856.47034 979 e395db625a39ee0bfd1b62ebb7f34c5e "pdflatex"
-  "main.run.xml" 1779847856.47434 2558 c586419d83b8b65e0bf369f3539f7e71 "pdflatex"
-  "main.tex" 1779847815.5018 41102 31fac4c495ef42860d15616a5cc848dd ""
-  "main.toc" 1779847856.47434 360 7344d6b1e5976999a3884b4e0f99a788 "pdflatex"
+  "main.nav" 1779860008.94033 3360 c8f3f4b8feed8c8142020c314e93440a "pdflatex"
+  "main.out" 1779860008.93633 979 e395db625a39ee0bfd1b62ebb7f34c5e "pdflatex"
+  "main.run.xml" 1779860008.94033 2558 c586419d83b8b65e0bf369f3539f7e71 "pdflatex"
+  "main.tex" 1779860004.33241 41109 b9167945cfa0f829452f66fc01be9cb2 ""
+  "main.toc" 1779860008.94033 360 7344d6b1e5976999a3884b4e0f99a788 "pdflatex"
   (generated)
   "main-blx.bib"
   "main.aux"

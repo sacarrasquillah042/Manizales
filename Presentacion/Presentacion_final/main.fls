@@ -1,6 +1,6 @@
-PWD /home/camila/Documentos/Congresos/manizales
+PWD /home/camila/Documentos/Manizales/Presentacion/Presentacion_final
 INPUT /home/camila/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /home/camila/Documentos/Congresos/manizales/main.tex
+INPUT /home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex
 OUTPUT main.log
 INPUT /home/camila/.miktex/texmfs/install/tex/latex/beamer/beamer.cls
 INPUT /home/camila/.miktex/texmfs/install/tex/latex/beamer/beamer.cls
