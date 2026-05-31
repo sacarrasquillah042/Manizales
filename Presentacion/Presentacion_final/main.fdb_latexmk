@@ -1,17 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1779847853.42208 "main.aux" "main.bbl" "main" 1779860060.19937 0
-  "./main-blx.bib" 1779860059.1835 342 20d1170ef6c1d70c658d70e011e08dba ""
+["bibtex main"] 1779979132.61702 "main.aux" "main.bbl" "main" 1779979136.15686 0
+  "./main-blx.bib" 1779979135.40975 342 20d1170ef6c1d70c658d70e011e08dba ""
   "./referencias.bib" 1779865356 1268 f56f734773ad4d37ec9214c02afa2acd ""
   "/home/camila/.miktex/texmfs/install/bibtex/bst/biblatex/biblatex.bst" 1779847660.28381 65510 9a2a51799b543ff279b8ea2dd91ec499 ""
-  "main.aux" 1779860059.1795 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
+  "main.aux" 1779979135.40575 8824 cf36b75072cc101c553d17e075c30f6e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1779860055.60648 "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" "main.pdf" "main" 1779860060.1996 0
+["pdflatex"] 1779979132.80774 "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" "main.pdf" "main" 1779979136.15705 0
   "/home/camila/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1779847740.62883 29155 71e2572ad06fab760694a34c351bad03 ""
   "/home/camila/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1779846373.4889 10152262 88147a6f1e6300f3816f7b817a8a0c9d ""
-  "/home/camila/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcss1095.tfm" 1779847740.40883 1476 a5029f05f7a73d73a725274ff87f9765 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1779847648.17565 1004 54797486969f23fa377b128694d548df ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1779847648.17565 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1779847648.17965 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -33,6 +32,7 @@
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmss17.tfm" 1779846361.48091 1320 ed93d62c5f2c16343826001f03341dbc ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmss8.tfm" 1779846361.48091 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmssbx10.tfm" 1779846361.48091 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
+  "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmssi10.tfm" 1779846361.48091 1520 ca2bb4b78ac9800bd686e30c6d19ef95 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmssi8.tfm" 1779846361.48091 1500 7f49257eca65a87057f17452e9fe3ef5 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm" 1779846361.48091 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/home/camila/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm" 1779846361.48091 1116 933a60c408fc0a863a92debe84b2d294 ""
@@ -281,7 +281,7 @@
   "/home/camila/.miktex/texmfs/install/tex/latex/translator/translator.sty" 1779847650.93569 8765 56d370785f0143111ff9898b5adfe08e ""
   "/home/camila/.miktex/texmfs/install/tex/latex/url/url.sty" 1779847642.77958 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/camila/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1779847630.63943 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" 1779860055.02356 41112 8a2131497017ca36f1a519a82fd8e22a ""
+  "/home/camila/Documentos/Manizales/Presentacion/Presentacion_final/main.tex" 1779979121.49401 44191 ff9ea74e23bca4786599e1c856ad068e ""
   "Fondos/Cuerpo.pdf" 1779865358 23976 779c0d469540bb5d5a67fc93ff30c683 ""
   "Fondos/fin.pdf" 1779865358 262525 3a530d9ea056e5789eb695886d0cb424 ""
   "Fondos/portada.pdf" 1779865358 219755 17277a40590248c78d4d66d28a5e3383 ""
@@ -295,13 +295,13 @@
   "Imagenes/eficiencia_N8_crestas.png" 1779865356 67261 0573e9e03251dc8000487a007e85fab6 ""
   "Imagenes/eficiencia_global.png" 1779865356 70158 9e56848ac437203baa1e54104a347158 ""
   "Logos/logoUD.png" 1779865358 110016 e0eb056adc8b6771f38207c59fa0fd38 ""
-  "main.aux" 1779860059.1795 7186 8824deb0e37faaa25a23dd4cd39a708c "pdflatex"
-  "main.bbl" 1779847853.5583 519 9b1193ea42022b65f5e4436756b83bc1 "bibtex main"
-  "main.nav" 1779860059.1875 3360 c8f3f4b8feed8c8142020c314e93440a "pdflatex"
-  "main.out" 1779860059.1835 979 e395db625a39ee0bfd1b62ebb7f34c5e "pdflatex"
-  "main.run.xml" 1779860059.1875 2558 c586419d83b8b65e0bf369f3539f7e71 "pdflatex"
-  "main.tex" 1779860055.02356 41112 8a2131497017ca36f1a519a82fd8e22a ""
-  "main.toc" 1779860059.1875 360 7344d6b1e5976999a3884b4e0f99a788 "pdflatex"
+  "main.aux" 1779979135.40575 8824 cf36b75072cc101c553d17e075c30f6e "pdflatex"
+  "main.bbl" 1779979132.7458 519 9b1193ea42022b65f5e4436756b83bc1 "bibtex main"
+  "main.nav" 1779979135.40975 3945 e37f00e244b083011337180f9386ec69 "pdflatex"
+  "main.out" 1779979135.40975 1165 73cd9ade7e8eb261d2821b71a41fadde "pdflatex"
+  "main.run.xml" 1779979135.40975 2558 c586419d83b8b65e0bf369f3539f7e71 "pdflatex"
+  "main.tex" 1779979121.49401 44191 ff9ea74e23bca4786599e1c856ad068e ""
+  "main.toc" 1779979135.40975 454 767344e5ac9fb1b6653ac5675f08a188 "pdflatex"
   (generated)
   "main-blx.bib"
   "main.aux"

@@ -61,7 +61,7 @@
   }
 
 % Datos para la barra
-\title[Diode-effect in an asymmetric supercSonducting sample]{Superconducting diode effect\\ in a rectangular slab with\\
+\title[Diode-effect in an asymmetric superconducting sample]{Superconducting diode effect\\ in a rectangular slab with\\
 asymmetric comb-shaped geometry.}
 \author[C. Aguirre, A. Gomez, S. Carrasquilla \& C. Pérez]{\textbf{Cristhian Aguirre, Carlos Andres Gomez, \\
 Sergio Carrasquilla \& Camila Pérez}}
@@ -455,7 +455,7 @@ Sergio Carrasquilla \& Camila Pérez}}
         \end{equation*}
 
         
-        \item La amplitud $\lvert \psi\rvert²$ mide la densidad local de pares de Cooper. La fase $\theta(r)$ contiene toda la información sobre el flujo de supercorriente y la coherencia cuántica.
+        \item La amplitud $\lvert \psi\rvert^2$ mide la densidad local de pares de Cooper. La fase $\theta(r)$ contiene toda la información sobre el flujo de supercorriente y la coherencia cuántica.
     \end{itemize}
 
         
@@ -587,58 +587,6 @@ Sergio Carrasquilla \& Camila Pérez}}
 }
 
 
-
-
-{
-  \usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Fondos/Cuerpo.pdf}}
-
-  % Forzamos color negro
-  \setbeamercolor{frametitle}{fg=white}
-  \setbeamercolor{normal text}{fg=black}
-  \setbeamercolor{structure}{fg=black}
-  \setbeamercolor{itemize item}{fg=black}
-
-
-\begin{frame}{Vórtices: De la Estructura a la Dinámica}
-    \scriptsize 
-
-    \begin{columns}[t]
-      \begin{column}{0.48\textwidth}
-        \begin{block}{Vórtices de Abrikosov (Estáticos)}
-          \centering
-          \begin{itemize}
-            \item \textbf{Origen}: Estado fundamental en superconductores tipo-II ante un campo $H > H_{c1}$.
-            \item \textbf{Estructura}: Núcleo normal rodeado por supercorrientes de apantallamiento.
-            \item \textbf{Rol}: Definen la 'red de vórtices' que interactúa con las geometrías de anclaje.
-          \end{itemize}
-        \end{block}
-      \end{column}
-
-      \begin{column}{0.48\textwidth}
-        \begin{block}{Vórtices Cinemáticos (Dinámicos)}
-          \centering
-          \begin{itemize}
-            \item \textbf{Origen}: Desplazamiento forzado de vórtices por fuerza de Lorentz ($F_L = j \times B$).
-            \item \textbf{Estructura}: Estado disipativo temporal donde se rompe la fase superconductora local.
-            \item \textbf{Rol}: Generan el voltaje resistivo ($R_{flow}$) responsable de la no-linealidad en el diodo.
-          \end{itemize}
-        \end{block}
-      \end{column}
-    \end{columns}
-
-    \vspace{0.4cm}
-    \centering
-    \textit{La rectificación en el SDE surge de la competencia entre el anclaje de vórtices de Abrikosov y el movimiento de los vórtices cinemáticos.}
-  \end{frame}
-}
-
-
-
-
-
-
-
-
 %===========================5========================
 
 {
@@ -682,7 +630,7 @@ Sergio Carrasquilla \& Camila Pérez}}
         
         \vspace{0.5cm}
         \centering
-        \textit{La unión p-n disipa calor por naturaleza; el diodo de vórtices lo anula.}
+        \textit{La unión p-n dicipa calor por naturaleza; el diodo de vórtices lo anula.}
       \end{column}
 
     \end{columns}
@@ -1136,6 +1084,82 @@ Sergio Carrasquilla \& Camila Pérez}}
   \end{frame}
 }
 
+%========================9===========================
+
+{
+  \usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Fondos/Cuerpo.pdf}}
+
+  % Forzamos color negro
+  \setbeamercolor{frametitle}{fg=white}
+  \setbeamercolor{normal text}{fg=black}
+  \setbeamercolor{structure}{fg=black}
+  \setbeamercolor{itemize item}{fg=black}
+
+\section{Resultados}
+\begin{frame}{Resultados}
+    \framesubtitle{Subtítulo aquí}
+    
+    \scriptsize
+    \begin{columns}[t]
+      
+      % COLUMNA IZQUIERDA
+      \begin{column}{0.48\textwidth}
+        \begin{block}{\centering Densidad de Pares de Cooper}
+          \centering
+          \includegraphics[width=\textwidth]{Imagenes/0.3_densidad_cooper.png}
+        \end{block}
+      \end{column}
+
+      % COLUMNA DERECHA
+      \begin{column}{0.48\textwidth}
+        \begin{block}{\centering Densidad de Pares de Cooper}
+          \centering
+          \includegraphics[width=\textwidth]{Imagenes/0.3_densidad_cooper.png}
+        \end{block}
+      \end{column}
+
+    \end{columns}
+  \end{frame}
+}
+
+%========================9===========================
+
+{
+  \usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Fondos/Cuerpo.pdf}}
+
+  % Forzamos color negro
+  \setbeamercolor{frametitle}{fg=white}
+  \setbeamercolor{normal text}{fg=black}
+  \setbeamercolor{structure}{fg=black}
+  \setbeamercolor{itemize item}{fg=black}
+
+\section{Resultados}
+\begin{frame}{Resultados}
+    \framesubtitle{Subtítulo aquí}
+    
+    \scriptsize
+    \begin{columns}[t]
+      
+      % COLUMNA IZQUIERDA
+      \begin{column}{0.48\textwidth}
+        \begin{block}{\centering Mapa de corrientes}
+          \centering
+          \includegraphics[width=\textwidth]{Imagenes/0.3_mapa_corrientes.png}
+        \end{block}
+      \end{column}
+
+      % COLUMNA DERECHA
+      \begin{column}{0.48\textwidth}
+        \begin{block}{\centering Mapa de corrientes}
+          \centering
+          \includegraphics[width=\textwidth]{Imagenes/0.3_mapa_corrientes.png}
+        \end{block}
+      \end{column}
+
+    \end{columns}
+  \end{frame}
+}
+
 
 {
   \usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Fondos/Cuerpo.pdf}}
@@ -1206,6 +1230,75 @@ Sergio Carrasquilla \& Camila Pérez}}
 \end{frame}
 }
 
+
+% ==========================================================
+% SECCIÓN DE BIBLIOGRAFÍA (SIN ARCHIVO .BIB)
+% ==========================================================
+{
+  \usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Fondos/Cuerpo.pdf}}
+  
+  \setbeamercolor{frametitle}{fg=white}
+  \setbeamercolor{normal text}{fg=black}
+  
+  % allowframebreaks divide la biblio en varias diapositivas si no cabe
+  \begin{frame}[allowframebreaks]{Referencias Bibliográficas}
+    \begin{thebibliography}{10}
+      \beamertemplatearticlebibitems % Icono de artículo para los papers
+
+      % 1. Kramer & Watts-Tobin (1978)
+      \bibitem{kramer1978}
+      L. Kramer and R. J. Watts-Tobin (1978).
+      \newblock \emph{Theory of Dissipative Current-Carrying States in Superconducting Filaments}.
+      \newblock Phys. Rev. Lett. 40, 1041.
+
+      % 2. Aguirre et al. (Meso-wedge)
+      \bibitem{aguirre2025}
+      C. A. Aguirre, J. Barba-Ortega, et al. (2025).
+      \newblock \emph{Superconducting diode effect in a meso-wedge geometry with Abrikosov vortices}.
+      \newblock arXiv:2506.01797.
+
+      % 3. Aguirre-Tellez et al. (Voltage Oscillations)
+      \bibitem{aguirretellez2024}
+      C. Aguirre-Tellez, M. Rincón-Joya and J. Barba-Ortega (2024).
+      \newblock \emph{Critical Currents and Voltage Oscillations in a Superconducting Sample}.
+      \newblock Rev. UIS Ing. 23(3), 93-98.
+
+      % 4. Nadeem et al. (Review SDE)
+      \bibitem{nadeem2023}
+      M. Nadeem, M. S. Fuhrer and X. Wang (2023).
+      \newblock \emph{Superconducting Diode Effect: Fundamental Concepts and Material Aspects}.
+      \newblock arXiv:2301.13564.
+
+
+      % 7. Bogush et al. (Nanotubes)
+      \bibitem{bogush2025}
+      I. Bogush, R. H. de Bragança, V. M. Fomin and O. V. Dobrovolskiy (2025).
+      \newblock \emph{Vortex Ratchet Effect in Superconductor Open Nanotubes and 3D Nanoflakes}.
+      \newblock Phys. Status Solidi RRL.
+
+      % 8. Tinkham (BCS Theory)
+      \beamertemplatebookbibitems % Icono de libro
+      \bibitem{tinkham1996}
+      M. Tinkham (1996).
+      \newblock \emph{Introduction to Superconductivity (Chapter 3: The BCS Theory)}.
+      \newblock McGraw-Hill.
+
+      % 9. Moysés Luiz (Superconductivity book)
+      \bibitem{luiz2011}
+      A. Moysés Luiz (Ed.) (2011).
+      \newblock \emph{Superconductivity - Theory and Applications}.
+      \newblock InTech.
+
+      % 10. Ummarino & Zaccone (Thin Films)
+      \beamertemplatearticlebibitems
+      \bibitem{ummarino2026}
+      G. A. Ummarino and A. Zaccone (2026).
+      \newblock \emph{Ginzburg-Landau Theory for Confined Thin-Film Superconductors}.
+      \newblock arXiv:2605.10686.
+
+    \end{thebibliography}
+  \end{frame}
+}
 
 
 % ==========================================================
